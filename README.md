@@ -1,2 +1,2 @@
 # rgrep
-A CLI tool similar to grep implemented in Rust.
+A __minimal__ CLI tool similar to grep implemented in Rust.
